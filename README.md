@@ -1,0 +1,1 @@
+Nesse projeto, eu desenvolvi a réplica do famoso jogo "Flappy Bird". O jogo e suas funcionalidades estão simples, no entanto foi um execelente exercicio para se treinar lógica, programação orientada a objeto e a biblioteca "pygame" que tem disversas funcionalidades. Estou muito feliz com esse novo projeto.
